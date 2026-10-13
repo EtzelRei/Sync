@@ -1,0 +1,4 @@
+DEPT
+NMR
+IR
+Mass Spec

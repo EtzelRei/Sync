@@ -41,4 +41,10 @@ Next question was whether the mtDNA is being released from the mitochondrial to 
 
 Using florescent imaging they saw that the mtDNA never left the mitochondrial suggesting that elimination was happening within the mitochondrial which is what was observed.
 
-they intene
+they intened to induce dauer(got lost at this part) through blocking the insulin receptor.
+
+in dauer they found that the mtDNA volume was maintained until around 28 days where it experienced ~5% drop in volume. This suggest that entering dauer stops whatever mtDNA elimination pathway from activating
+
+So he knows Somatic cells eliminate mtDNA while the mitochondria expands
+
+questions are wh

@@ -22,3 +22,8 @@ Areas of study
 2.Vitamin B12 responsive mito-nuclear communication network
 
 Mitchondria carry a meternally inherited multicopy genome
+
+some cells choose to eliminate their mitochondrial DNA(mtDNA)
+
+mtDNA is exponentially copied before reproduce so that the progeny can have sufficient copies of mtDNA.
+

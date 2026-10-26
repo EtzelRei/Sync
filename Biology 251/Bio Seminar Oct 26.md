@@ -31,4 +31,9 @@ He chose to ask what happens to the mtDNA copy number in somatic cells, he found
 
 Proposed mechanisms of mtDNA copy number loss
 1.Loss of cells(can't be true in c.elegans because their cells peak in adulthood so this is rejected)
-2.
+2.deleting mitochondria
+3.deleting just mitochondria DNA
+
+Imagining was done to distinguish between whether 2 or 3 is taking place
+an graph is provided mapping the mitochondrial volume **increase** across tissues and ages; this means the amount of mitochondrial goes up with age rather than down. This suggest that 3 is the possible mechanism and completely rejects 2.
+

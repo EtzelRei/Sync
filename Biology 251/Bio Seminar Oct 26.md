@@ -27,3 +27,8 @@ some cells choose to eliminate their mitochondrial DNA(mtDNA)
 
 mtDNA is exponentially copied before reproduce so that the progeny can have sufficient copies of mtDNA.
 
+He chose to ask what happens to the mtDNA copy number in somatic cells, he found that it decreases pass the L4 larva stage and even further into adulthood, he found a steady loss of mtDNA throughout adulthood.
+
+Proposed mechanisms of mtDNA copy number loss
+1.Loss of cells(can't be true in c.elegans because their cells peak in adulthood so this is rejected)
+2.

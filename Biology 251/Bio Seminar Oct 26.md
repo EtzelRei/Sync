@@ -30,10 +30,15 @@ mtDNA is exponentially copied before reproduce so that the progeny can have suff
 He chose to ask what happens to the mtDNA copy number in somatic cells, he found that it decreases pass the L4 larva stage and even further into adulthood, he found a steady loss of mtDNA throughout adulthood.
 
 Proposed mechanisms of mtDNA copy number loss
-1.Loss of cells(can't be true in c.elegans because their cells peak in adulthood so this is rejected)
+1.Loss of cells(can't be true in C.elegans because their cells peak in adulthood so this is rejected)
 2.deleting mitochondria
 3.deleting just mitochondria DNA
 
 Imagining was done to distinguish between whether 2 or 3 is taking place
 an graph is provided mapping the mitochondrial volume **increase** across tissues and ages; this means the amount of mitochondrial goes up with age rather than down. This suggest that 3 is the possible mechanism and completely rejects 2.
 
+Next question was whether the mtDNA is being released from the mitochondrial to undergo some process and then being eliminated or are they being eliminated within the mitochondrial.
+
+Using florescent imaging they saw that the mtDNA never left the mitochondrial suggesting that elimination was happening within the mitochondrial which is what was observed.
+
+they intene

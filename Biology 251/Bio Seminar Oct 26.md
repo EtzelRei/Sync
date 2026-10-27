@@ -45,6 +45,12 @@ they intened to induce dauer(got lost at this part) through blocking the insulin
 
 in dauer they found that the mtDNA volume was maintained until around 28 days where it experienced ~5% drop in volume. This suggest that entering dauer stops whatever mtDNA elimination pathway from activating
 
+
+
 So he knows Somatic cells eliminate mtDNA while the mitochondria expands
 
-questions are wh
+Questions:
+how does insulin signaling control mtDNA elimination?
+Why do somatic cells eliminate mtDNA?
+
+protein abundance is being maintained even in the absence of the mtDNA which suggest that they can tolerate the elimination of mtDNA

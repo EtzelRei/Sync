@@ -8,6 +8,6 @@ the average in is 7Hz
 how does rigidity impact of splitting/j-coupling? why?
 
 Aromatic ring J-coupling
-J#
-J$
+J3=ortho
+J4=meta
 J5=para

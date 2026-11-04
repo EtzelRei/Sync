@@ -5,4 +5,9 @@ Signals sometimes overlap
 # **J- coupling**
 the average in is 7Hz
 
-ridgidity increases impact of splitting/j-coupling
+how does rigidity impact of splitting/j-coupling? why?
+
+Aromatic ring J-coupling
+J#
+J$
+J5=para

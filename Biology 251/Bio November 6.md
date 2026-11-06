@@ -9,3 +9,6 @@ Transport(how does the cell move important molecules through the cell)
 
 Concentration Gradients/ Charge Gradients and nerst equation
 
+sodium-pottasium pump semi mechanism
+
+

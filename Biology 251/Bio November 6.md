@@ -11,4 +11,5 @@ Concentration Gradients/ Charge Gradients and nerst equation
 
 sodium-pottasium pump semi mechanism
 
+Channels can move by size and can move by charge
 
